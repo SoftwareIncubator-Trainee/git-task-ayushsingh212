@@ -2,3 +2,7 @@ My name is Ayush Singh
 My branch is CSE
 My Domain is Backend Development
 My hobby are Listening,Playing Games
+My skills are
+I am a React Developer
+I am a Node Developer 
+I also have knowledge of Java with basic DSA understanding
